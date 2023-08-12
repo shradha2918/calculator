@@ -1,0 +1,20 @@
+.input-wrapper{
+    height: 3cm;
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+    flex-direction: column;
+    padding: 18px;
+    border-radius: 25px;
+    
+    background-color: rgb(176, 184, 184);
+    color:rgb(15, 15, 15)
+}
+.result{
+    flex: 1;
+    font-size: 20px;
+}
+.text{
+    flex: 1;
+    font-size: 12px;
+}
